@@ -7,7 +7,7 @@
 
 ### Terrible devs
 #### All of the code and design/format of this website looks like AI wrote it.
-#### The "Developers" have huge mental issues and stay on discord 24/7 and still dont focus their time into developing without AI.
+#### The "Developers" have huge mental issues and big egos. They also stay on discord 24/7 and still dont focus their time into developing without AI.
 #### This repo wont be updated often. I just did this as a joke to piss of the script kiddies who own this website lol
 
 ### Installation
